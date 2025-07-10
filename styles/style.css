@@ -72,3 +72,39 @@ header {
     margin-top: 37px;
 }
 /* Heaer Banner Section End */
+
+/* Acion Part Design Start*/
+.action-webflow {
+    width: 1140px;
+    height: 328px;
+    margin: 116px auto;
+    font-family: 'Raleway', sans-serif;
+}
+.action-collumn {
+    display: flex;
+    justify-content: space-between;
+    gap: 220px;
+    align-items: center;
+}
+.action-collumn-1 h1 {
+    font-size: 42px;
+    font-weight: 700;
+}
+.action-collumn-1 p {
+    font-size: 24px;
+    color: rgb(37, 36, 50, 0.6);
+    margin-top: 23px;
+}
+.action-collumn-1 button {
+    width: 229px;
+    height: 48px;
+    border: none;
+    border-radius: 10px;
+    font-size: 16px;
+    font-weight: 700;
+    margin-top: 23px;
+}
+.action-collumn-2 img {
+    border-radius: 48px;
+}
+/* Acion Part Design End*/
