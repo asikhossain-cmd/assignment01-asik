@@ -108,3 +108,38 @@ header {
     border-radius: 48px;
 }
 /* Acion Part Design End*/
+
+/* Productive Users Count Design Start */
+.productive-users-count {
+    width: 1140px;
+    height: 306px;
+    background-color: #e5e7ff;
+    margin: 0 auto;
+    border-radius: 24px;
+    text-align: center;
+    padding: 50px 142px;
+    box-sizing: border-box;
+}
+.productive-users-count > h1 {
+    font-family: 'Raleway', sans-serif;
+    font-size: 38px;
+    font-weight: 700;
+}
+.productive-users-collumn {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.common-header-pusr-colh {
+    font-family: 'Inter', sans-serif;
+    font-size:  80px;
+    font-weight: 700;
+    color: #4E47FF;
+    margin-top: 40px;
+}
+.common-header-pusr-colp {
+    font-family: 'Inter', sans-serif;
+    font-size: 20px;
+    color: rgba(0,0,0,0.5);
+}
+/* Productive Users Count Design Start */
