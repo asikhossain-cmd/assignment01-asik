@@ -7,6 +7,7 @@
 .btn-color-primary {
     color: white;
     background-color: #4E47FF;
+    cursor: pointer;
 }
 .primary-tex-color {
     color: #4E47FF;
@@ -43,7 +44,31 @@ header {
     border: none;
     border-radius: 10px;
     font-family: 'Raleway', sans-serif;
-    font-weight: 700; 
+    font-weight: 700;
+    font-size: 16px;
 }
-
 /* Navbar Design End */
+
+/* Heaer Banner Section Start */
+.header-banner {
+    width: 905px;
+    height: 237px;
+    margin: 158px auto 152px; 
+}
+.header-banner h1 {
+    font-family: 'Raleway', sans-serif;
+    font-size: 65px;
+    font-weight: 700;
+    color: #252432;
+}
+.header-banner button {
+    width: 174px;
+    height: 48px;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 700;
+    font-size: 16px;
+    border: none;
+    border-radius: 10px;
+    margin-top: 37px;
+}
+/* Heaer Banner Section End */
