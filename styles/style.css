@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+/* Common Designes Start */
+.btn-color-primary {
+    color: white;
+    background-color: #4E47FF;
+}
+.primary-tex-color {
+    color: #4E47FF;
+}
+/* Common Designes End */
+
+
+/* Navbar Design Start */
+header {
+    text-align: center;
+    width: 100%;
+}
+.navbar-primary {
+    width: 1140px;
+    height: 151px;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.navbar-primary h1 {
+    font-family: 'Inter', sans-serif;
+    font-size: 34px;
+    font-weight: 900;
+
+}
+.navbar-primary button {
+    width: 132px;
+    height: 48px;
+    border: none;
+    border-radius: 10px;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 700; 
+}
+
+/* Navbar Design End */
