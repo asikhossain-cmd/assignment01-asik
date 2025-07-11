@@ -204,3 +204,41 @@ header {
 }
 /* Review Section Design End */
 
+/* Ready to Focus Section Design Start */
+.ready-to-focus {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 1140px;
+    height: 697px;
+    margin: 140px auto;
+    gap: 20px;
+    background-color: white;
+    padding: 71px;
+    border-radius: 14px;
+    box-sizing: border-box;
+}
+.ready-to-focus h1 {
+    font-family: 'Raleway', sans-serif;
+    font-weight: 700;
+    font-size: 50px;
+}
+.ready-to-focus p {
+    font-family: 'Inter', sans-serif;
+    font-size: 16px;
+    color: rgba(0,0,0,0.5);
+}
+.ready-to-focus button {
+    font-family: 'Raleway', sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    width: 195px;
+    height: 48px;
+    border-radius: 10px;
+    border: none;
+}
+.ready-to-focus img {
+    border-radius: 48px;
+}
+/* Ready to Focus Section Design End */
+
