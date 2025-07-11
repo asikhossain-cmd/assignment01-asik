@@ -242,3 +242,73 @@ header {
 }
 /* Ready to Focus Section Design End */
 
+/* Contact Me Section Design Start */
+.contact-me-section {
+    width: 1140px;
+    height: 632px;
+    margin: 0 auto;
+    display: flex;
+    gap: 115px;
+    justify-content: space-between; 
+    align-items: center;
+}
+.contact-me-section h1 {
+    font-family: 'Raleway', sans-serif;
+    font-size: 92px;
+    font-weight: 700;
+    text-align: left;
+}
+.contact-me-section form input,.contact-me-section form label,.contact-me-section form button {
+    display: block;
+}
+.contact-me-section form {
+    font-family: 'Inter', sans-serif;
+    font-size: 20px;
+}
+.contact-me-section input[type="button"] {
+    font-family: 'Raleway', sans-serif;
+}
+.contact-me-section form input {
+    width: 497px;
+    height: 30px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    font-size: 20px;
+}
+.contact-me-section form input, form textarea {
+    border-radius: 10px;
+    border: 1px solid rgba(0,0,0,0.1);
+    padding: 20px;
+}
+.contact-me-section form label {
+    font-size: 18px;
+    font-weight: 500;
+}
+.contact-me-section form textarea::placeholder {
+    font-family: 'Inter', sans-serif;
+    font-size: 20px;
+}
+.contact-me-section form input::placeholder {
+    font-size: 20px;
+    font-family: 'Inter', sans-serif;
+}
+.contact-me-section form textarea {
+    font-size: 20px;
+    font-family: 'Inter', sans-serif;
+    width: 497px;
+    height: 150px;
+    margin-top: 10px;
+}
+.contact-me-section button {
+    display: block; 
+    width: 100%;
+    height: 62px;
+    font-family: 'Raleway', sans-serif;
+    font-size: 16px;
+    font-weight: 700;
+    border-radius: 10px;
+    border: none;
+    margin-top: 20px;
+}
+/*Contact Me Section Design End */
+
